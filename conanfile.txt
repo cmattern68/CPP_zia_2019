@@ -1,0 +1,8 @@
+[requires]
+sfml/2.5.1@bincrafters/stable
+OpenSSL/1.1.1a@conan/stable
+
+[options]
+
+[generators]
+cmake
